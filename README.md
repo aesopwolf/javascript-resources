@@ -1,7 +1,7 @@
 Books
 ================================
 
-## Paid
+**Paid**
 
 - http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_2?ie=UTF8&qid=1329232043&sr=8-2
 - http://www.manning.com/resig/
@@ -16,7 +16,7 @@ Books
 - http://www.amazon.com/gp/product/1449327680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449327680&linkCode=as2&tag=mediumequalsm-20
 - http://www.drdobbs.com/article/print?articleId=240148421
 
-## Free
+**Free**
 
 - http://eloquentjavascript.net/
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
@@ -27,7 +27,7 @@ Books
 Online
 ================================
 
-## Podcasts
+**Podcasts**
 
 - http://five-js.envylabs.com/
 - http://javascriptjabber.com/
@@ -36,7 +36,7 @@ Online
 - http://www.jsclasses.org/blog/category/podcast/
 - http://emberwatch.com/podcasts.html
 
-## Newsletters
+**Newsletters**
 
 - http://javascriptweekly.com/
 - http://nodeweekly.com/
@@ -44,7 +44,7 @@ Online
 - http://www.sitepoint.com/newsletter/
 - http://superherojs.com/
 
-## Lists of Blogs
+**Lists of Blogs**
 
 - http://stackoverflow.com/questions/409056/top-rated-javascript-blogs
 - https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
@@ -52,7 +52,7 @@ Online
 - http://javascriptweblog.wordpress.com/2010/04/02/my-top-10-javascript-blogs/
 - http://javascriptweblog.wordpress.com/2010/04/02/my-top-10-javascript-blogs/
 
-## Blogs - Single Author
+**Blogs - Single Author**
 
 - http://badassjs.com/
 - http://dailyjs.com/
@@ -64,7 +64,7 @@ Online
 - http://blog.ponyfoo.com/
 - http://www.2ality.com/
 
-## Blogs - Multiple Authors
+**Blogs - Multiple Authors**
 
 - http://blog.mozilla.org/javascript/
 - http://www.sitepoint.com/javascript/
@@ -72,7 +72,7 @@ Online
 - http://blog.jquery.com/
 - http://sixrevisions.com/category/javascript/
 
-## Video Series
+**Video Series**
 
 - http://frontendmasters.com/
 - https://egghead.io/
@@ -83,19 +83,19 @@ Online
 - http://scotch.io/series
 - https://github.com/bolshchikov/js-must-watch
 
-## Interactive tutorials
+**Interactive tutorials**
 
 - http://www.codewars.com/
 - http://www.codecademy.com/
 - https://www.codeschool.com/paths/javascript
 - http://ejohn.org/apps/learn/
 
-## Read only tutorials
+**Read only tutorials**
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 - http://javascript.crockford.com/
 
-## Documentation
+**Documentation**
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - http://nodejs.org/documentation/
@@ -103,13 +103,13 @@ Online
 Offline
 ================================
 
-## Non conference meetups
+**Non conference meetups**
 
 - http://www.meetup.com/
 - http://nodeschool.io/
 - https://github.com/beerjs
 
-## Conferences
+**Conferences**
 
 - http://html5devconf.com/videos.html
 - http://www.oreilly.com/conferences/
