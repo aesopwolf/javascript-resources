@@ -3,7 +3,7 @@ Books
 
 **Paid**
 
-- http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_2?ie=UTF8&qid=1329232043&sr=8-2
+- [Javascript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_2?ie=UTF8&qid=1329232043&sr=8-2)
 - http://www.manning.com/resig/
 - http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1
 - http://oreilly.com/javascript/
