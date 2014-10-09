@@ -111,8 +111,8 @@ Offline
 
 **Conferences**
 
-- http://html5devconf.com/videos.html
-- http://www.oreilly.com/conferences/
+- http://html5devconf.com/
+- http://fluentconf.com/
 - http://connect-js.com/
 - http://nationjs.com/
 - http://js.la/
