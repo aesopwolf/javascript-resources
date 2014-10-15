@@ -3,31 +3,28 @@ Books
 
 **Paid**
 
-- [Javascript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_2?ie=UTF8&qid=1329232043&sr=8-2)
-- [Secrets of the JavaScript Ninja](http://www.manning.com/resig/)
-- [Maintainable JavaScript](http://www.amazon.com/gp/product/1449327680/)
-- [Professional JavaScript for Web Developers](http://www.amazon.com/gp/product/B006PW2URI/)
-- [Learning JavaScript Design Patterns](http://www.amazon.com/dp/1449331815/)
-- [JavaScript Patterns](http://www.amazon.com/dp/0596806752/)
-- [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming](http://www.amazon.com/dp/159059908X/)
+- [Javascript: The Good Parts by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/)
+- [Secrets of the JavaScript Ninja by John Resig](http://www.manning.com/resig/)
+- [Maintainable JavaScript by Nicholas C. Zakas](http://www.amazon.com/gp/product/1449327680/)
+- [Professional JavaScript for Web Developers by Nicholas C. Zakas](http://www.amazon.com/gp/product/B006PW2URI/)
+- [Learning JavaScript Design Patterns by Addy Osmani](http://www.amazon.com/dp/1449331815/)
+- [JavaScript Patterns by Stoyan Stefanov](http://www.amazon.com/dp/0596806752/)
+- [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming by Dustin Diaz](http://www.amazon.com/dp/159059908X/)
+
+**Lists**
+
 - [Best JavaScript Books](http://www.goodreads.com/list/show/10757.Best_JavaScript_Books)
 - [Developer Reading List: The Must-Have Books for JavaScript](http://www.drdobbs.com/article/print?articleId=240148421)
 - [Manning Catalog by Subject](http://manning.com/catalog/by/subject/)
 - [JavaScript Development and Resources (Oreilly)](http://oreilly.com/javascript/)
 - [JavaScript (Oreilly)](http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1)
 
-
-
-
-
-
-
 **Free**
-- [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
-- http://eloquentjavascript.net/
-- http://addyosmani.com/resources/essentialjsdesignpatterns/book/
-- http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html
-- http://en.wikibooks.org/wiki/JavaScript
+- [JavaScript Allongé by Reg Braithwaite](https://leanpub.com/javascript-allonge/read)
+- [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/)
+- [Learning JavaScript Design Patterns by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [The Refactoring Tales By Jack Franklin](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
+- [JavaScript WikiBook](http://en.wikibooks.org/wiki/JavaScript)
 
 
 Online
