@@ -4,17 +4,23 @@ Books
 **Paid**
 
 - [Javascript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_2?ie=UTF8&qid=1329232043&sr=8-2)
-- http://www.manning.com/resig/
-- http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1
-- http://oreilly.com/javascript/
-- http://manning.com/catalog/by/subject/
-- https://leanpub.com/javascript-allonge/read
-- http://www.goodreads.com/list/show/10757.Best_JavaScript_Books
-- http://blog.mediumequalsmessage.com/javascript-books-to-take-your-skills-to-the-next-level
-- http://www.amazon.com/gp/product/B006PW2URI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006PW2URI&linkCode=as2&tag=mediumequalsm-20
-- http://www.amazon.com/gp/product/0596806752/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=mediumequalsm-20
-- http://www.amazon.com/gp/product/1449327680/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449327680&linkCode=as2&tag=mediumequalsm-20
-- http://www.drdobbs.com/article/print?articleId=240148421
+- [Secrets of the JavaScript Ninja](http://www.manning.com/resig/)
+- [Maintainable JavaScript](http://www.amazon.com/gp/product/1449327680/)
+- [Professional JavaScript for Web Developers](http://www.amazon.com/gp/product/B006PW2URI/)
+- [Learning JavaScript Design Patterns](http://www.amazon.com/dp/1449331815/)
+- [JavaScript Patterns](http://www.amazon.com/dp/0596806752/)
+- [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming](http://www.amazon.com/dp/159059908X/)
+- [Best JavaScript Books](http://www.goodreads.com/list/show/10757.Best_JavaScript_Books)
+- [Developer Reading List: The Must-Have Books for JavaScript](http://www.drdobbs.com/article/print?articleId=240148421)
+- [Manning Catalog by Subject](http://manning.com/catalog/by/subject/)
+- [JavaScript Development and Resources (Oreilly)](http://oreilly.com/javascript/)
+- [JavaScript (Oreilly)](http://shop.oreilly.com/category/browse-subjects/programming/javascript.do?sortby=bestSellers&sortType=1)
+
+
+
+
+
+
 
 **Free**
 - [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
