@@ -7,28 +7,22 @@ Online
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - http://nodejs.org/documentation/
 
-**Courses: Video and Coding Challenges**
-
-- https://tutsplus.com/
-- https://www.codeschool.com/paths/javascript
-
-**Courses: Video Only**
-
-- http://frontendmasters.com/
-- https://egghead.io/
-- http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
-- https://github.com/bolshchikov/js-must-watch (one-off videos)
-
-**Courses: Coding Challenges Only**
-
-- http://www.codecademy.com/
-- http://www.codewars.com/
-- http://ejohn.org/apps/learn/
-
-**Series: Blog Style**
-
-- http://scotch.io/tutorials
-- https://code.tutsplus.com/categories/javascript
+**Courses**
+- Video and Coding Challenges:
+  - https://tutsplus.com/
+  - https://www.codeschool.com/paths/javascript
+- Video Only:
+  - http://frontendmasters.com/
+  - https://egghead.io/
+  - http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
+  - https://github.com/bolshchikov/js-must-watch (one-off videos)
+- Coding Challenges Only
+  - http://www.codecademy.com/
+  - http://www.codewars.com/
+  - http://ejohn.org/apps/learn/
+- Blog Style Series
+  - http://scotch.io/tutorials
+  - https://code.tutsplus.com/categories/javascript
 
 **Short guides**
 
