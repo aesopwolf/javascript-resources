@@ -17,7 +17,7 @@ Books
 - http://www.drdobbs.com/article/print?articleId=240148421
 
 **Free**
-
+- [JavaScript Allongé](https://leanpub.com/javascript-allonge/read)
 - http://eloquentjavascript.net/
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html
@@ -63,6 +63,7 @@ Online
 - http://ejohn.org/
 - http://blog.ponyfoo.com/
 - http://www.2ality.com/
+- http://javascriptissexy.com/
 
 **Blogs - Multiple Authors**
 
@@ -91,8 +92,9 @@ Online
 - http://ejohn.org/apps/learn/
 
 **Read only tutorials**
-
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+- [JavaScript 101 - jQuery](http://learn.jquery.com/javascript-101/)
+- [JavaScript Guide - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - http://javascript.crockford.com/
 
 **Documentation**
