@@ -124,6 +124,7 @@ _Watch the videos on these sites!_
 - http://empirejs.org/
 - http://fluentconf.com/
 - http://forwardjs.com/
+- http://futurejs.org/
 - http://html5devconf.com/
 - http://js.la/
 - http://jsconf.com/
