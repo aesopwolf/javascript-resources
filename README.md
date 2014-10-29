@@ -15,6 +15,7 @@ Online
   - http://frontendmasters.com/
   - https://egghead.io/
   - http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
+  - https://www.tagtree.tv/library
   - https://github.com/bolshchikov/js-must-watch (one-off videos)
 - Coding Challenges Only
   - http://www.codecademy.com/
