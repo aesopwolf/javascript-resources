@@ -16,6 +16,7 @@ Online
   - https://egghead.io/
   - https://learnable.com/topics/javascript
   - http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
+  - http://www.pluralsight.com/tag/javascript
   - https://www.tagtree.tv/library
   - https://github.com/bolshchikov/js-must-watch (one-off videos)
 - Coding Challenges Only
