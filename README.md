@@ -49,6 +49,7 @@ Online
 
 - http://dailyjs.com/
 - http://designpepper.com/a-drip-of-javascript/
+- http://www.echojs.com/
 - http://javascriptweekly.com/
 - http://nodeweekly.com/
 - http://www.sitepoint.com/newsletter/
