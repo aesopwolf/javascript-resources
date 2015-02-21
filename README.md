@@ -5,6 +5,7 @@ Online
 
 - _These are highly suggested bookmarks_
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- http://www.ecma-international.org/ecma-262/5.1/
 - http://nodejs.org/documentation/
 
 **Courses**
