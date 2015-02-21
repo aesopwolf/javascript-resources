@@ -157,3 +157,4 @@ Other resource lists
 - https://github.com/sindresorhus/awesome-nodejs
 - http://www.quora.com/What-are-the-best-resources-to-learn-Node-js
 - http://blog.modulus.io/nodejs-resources
+- https://github.com/bolshchikov/js-must-watch
