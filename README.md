@@ -102,6 +102,7 @@ Books
 - [Learning JavaScript Design Patterns by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [The Refactoring Tales By Jack Franklin](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
 - [JavaScript WikiBook](http://en.wikibooks.org/wiki/JavaScript)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 
 **Lists**
 
