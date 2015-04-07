@@ -92,6 +92,7 @@ Books
 - [Learning JavaScript Design Patterns by Addy Osmani](http://www.amazon.com/dp/1449331815/)
 - [JavaScript Patterns by Stoyan Stefanov](http://www.amazon.com/dp/0596806752/)
 - [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming by Dustin Diaz](http://www.amazon.com/dp/159059908X/)
+- [Node Patterns](http://nodepatternsbooks.com/)
 
 **Free**
 - [JavaScript Allongé by Reg Braithwaite](https://leanpub.com/javascript-allonge/read)
