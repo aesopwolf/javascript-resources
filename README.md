@@ -92,7 +92,6 @@ Books
 - [JavaScript Patterns by Stoyan Stefanov](http://www.amazon.com/dp/0596806752/)
 - [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming by Dustin Diaz](http://www.amazon.com/dp/159059908X/)
 - [Node Patterns](http://nodepatternsbooks.com/)
-- [Pedro Teixeira](https://leanpub.com/u/pgte)
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 **Free**
