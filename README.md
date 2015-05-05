@@ -26,6 +26,7 @@ Online
   - http://www.codecademy.com/
   - http://www.codewars.com/
   - http://ejohn.org/apps/learn/
+  - http://nodeschool.io/
 
 **Short guides**
 
