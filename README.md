@@ -10,24 +10,22 @@ Online
 - https://iojs.org/api/
 
 **Courses**
-- Video and Coding Challenges:
-  - https://tutsplus.com/
+- Video:
   - https://www.codeschool.com/paths/javascript
-- Video Only:
-  - http://frontendmasters.com/
   - https://egghead.io/
+  - http://frontendmasters.com/
   - https://learnable.com/topics/javascript
   - http://www.lynda.com/JavaScript-tutorials/Nodejs-Essential-Training/141132-2.html
   - http://www.pluralsight.com/tag/javascript
+  - http://nodetuts.com/
+  - http://scotch.io/tutorials
   - https://www.tagtree.tv/library
+  - http://code.tutsplus.com/categories/javascript/courses
   - https://github.com/bolshchikov/js-must-watch (one-off videos)
-- Coding Challenges Only
+- Coding Challenges
   - http://www.codecademy.com/
   - http://www.codewars.com/
   - http://ejohn.org/apps/learn/
-- Blog Style Series
-  - http://scotch.io/tutorials
-  - https://code.tutsplus.com/categories/javascript
 
 **Short guides**
 
@@ -94,6 +92,8 @@ Books
 - [JavaScript Patterns by Stoyan Stefanov](http://www.amazon.com/dp/0596806752/)
 - [Pro JavaScript Design Patterns: The Essentials of Object-Oriented JavaScript Programming by Dustin Diaz](http://www.amazon.com/dp/159059908X/)
 - [Node Patterns](http://nodepatternsbooks.com/)
+- [Pedro Teixeira](https://leanpub.com/u/pgte)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 **Free**
 - [JavaScript Allongé by Reg Braithwaite](https://leanpub.com/javascript-allonge/read)
