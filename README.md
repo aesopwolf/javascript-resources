@@ -98,6 +98,7 @@ Books
 **Free**
 - [JavaScript Allongé by Reg Braithwaite](https://leanpub.com/javascript-allonge/read)
 - [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/)
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
 - [Human JavaScript](http://read.humanjavascript.com/)
 - [Learning JavaScript Design Patterns by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [The Refactoring Tales By Jack Franklin](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
